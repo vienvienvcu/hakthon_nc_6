@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name": "ÁO DÁNG NGẮN PHỐI ĐĂNG TEN",
+        "price": 990000,
+        "size": ["XS","S","M","L","XL"],
+        "image":"https://static.zara.net/assets/public/298f/5af1/e3a24f9ca5a8/d5ecc42222e5/02298166044-a1/02298166044-a1.jpg?ts=1719993481352&w=850"
+    },
+    {
+        "id":2,
+        "name": "ÁO KẺ CA RÔ GINGHAM VẠT CHÉO",
+        "price": 1099000 ,
+        "size": ["XS","S","M","L","XL"],
+        "image":"https://static.zara.net/assets/public/89c9/298d/0ec048709377/a89b4b7c830e/03564079403-e1/03564079403-e1.jpg?ts=1718106721227&w=474"
+    },
+    {
+        "id":3,
+        "name": "ÁO KẺ THẮT NƠ KIỂU THỦNG LỖ",
+        "price": 999000 ,
+        "size": ["XS","S","M","L","XL"],
+        "image":"https://static.zara.net/assets/public/617c/23a7/7ab2470fa9ca/ae4b1b9a85b5/02298165046-a1/02298165046-a1.jpg?ts=1719993479883&w=850"
+    },
+    {
+        "id":4,
+        "name": "ÁO HAI DÂY BUỘC NƠ HỌA TIẾT KẺ",
+        "price": 1099000 ,
+        "size": ["XS","S","M","L","XL"],
+        "image":"https://static.zara.net/assets/public/d344/fafa/9c784647a515/a7c96da9e1ad/02298165046-e1/02298165046-e1.jpg?ts=1720168176970&w=474"
+    },
+    {
+        "id":5,
+        "name": "ÁO SƠ MI DÁNG NGẮN THÊU  ",
+        "price": 999000 ,
+        "size": ["XS","S","M","L","XL"],
+        "image":"https://static.zara.net/assets/public/e761/9cfa/6e024dbe83ad/2fb6c3241a72/03564090044-e1/03564090044-e1.jpg?ts=1717084449364&w=474"
+    },
+    {
+        "id":6,
+        "name": "ÁO SƠ MI DENIM Z1975 DÁNG CROP",
+        "price": 1299000,
+        "size": ["XS","S","M","L","XL"],
+        "image":"https://static.zara.net/assets/public/4fae/e5eb/15d1476791f1/66146f311511/06164133407-e1/06164133407-e1.jpg?ts=1718277801831&w=474"
+    }
+]
